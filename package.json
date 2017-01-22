@@ -1,0 +1,21 @@
+{
+  "name": "NodeJSTutorial",
+  "version": "0.0.1",
+  "description": "The first version of NodeJS tutorial app",
+  "main": "HelloMain.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolas2lee/NodeJSTutorial"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "tao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolas2lee/NodeJSTutorial/issues"
+  }
+}
